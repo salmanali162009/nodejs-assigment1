@@ -1,1 +1,59 @@
+# 🛒 E-Commerce Backend REST API
 
+A RESTful E-Commerce Backend API built with **Node.js** and **Express.js** for managing users and products.
+
+This project was developed as part of **SMIT Node.js Assignment 01** to practice REST API development, routing, CRUD operations, middleware, API key authentication, validation, and error handling.
+
+---
+
+## 🚀 Technologies Used
+
+- Node.js
+- Express.js
+- JavaScript
+- Express Router
+- CORS
+- REST API
+- Postman
+- Git & GitHub
+
+---
+
+## ✨ Features
+
+- 👤 User Management
+- 📦 Product Management
+- 🔄 CRUD Operations
+- 🛣️ Express Router
+- 🔐 API Key Authentication
+- ✅ Request Validation
+- ⚠️ Error Handling
+- 📊 Proper HTTP Status Codes
+- 🧪 Postman API Testing
+- 📁 Organized Project Structure
+
+---
+
+## 📁 Project Structure
+
+```text
+assignment 1/
+│
+├── data/
+│   ├── userData.js
+│   └── productData.js
+│
+├── routes/
+│   ├── user/
+│   │   └── user.js
+│   │
+│   └── products/
+│       └── product.js
+│
+├── node_modules/
+│
+├── .gitignore
+├── package.json
+├── package-lock.json
+├── server.js
+└── README.md
